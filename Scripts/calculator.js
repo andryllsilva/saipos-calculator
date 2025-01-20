@@ -1,3 +1,3 @@
-let calculadora = new CalcController();
+let calculator = new CalcController();
 
 
